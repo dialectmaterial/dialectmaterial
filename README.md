@@ -1,7 +1,10 @@
 ## Hi, Dimitri here 💻
 
-Philosopher and artist studying computational linguistics. My main and current project here is an experiment in philosophical science called SOL (SOL Organizes Logic). It's a terminal-based reader and research workspace centered on Hegel's _Science of Logic_.
+Philosopher and artist studying computational linguistics. My current project is
+[**SOL**](https://github.com/dialectmaterial/SOL) (SOL Organizes Logic), an experiment
+in philosophical science: a terminal-based reader and research workspace for Hegel's
+*Science of Logic*, built to follow the movement of the *Logic* itself.
 
-On Actual Spirit I write essays, hold conversations and make video-lectures.
-* 🎬 Channel:  https://www.youtube.com/@Actual_Spirit
-* 📜 writings: https://actualspirit.substack.com/
+On **Actual Spirit** I write essays, give video lectures and hold conversations:
+- 🎬 [YouTube](https://www.youtube.com/@Actual_Spirit)
+- 📜 [Substack](https://actualspirit.substack.com/)
