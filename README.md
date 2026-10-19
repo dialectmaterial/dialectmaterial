@@ -1,6 +1,6 @@
 ## Hi, Dimitri here 💻
 
-Philosopher and artist studying computational linguistics. My current project is
+Philosopher, artist and Linux enjoyer studying computational linguistics. My current project is
 [**SOL**](https://github.com/dialectmaterial/SOL) (SOL Organizes Logic), an experiment
 in philosophical science: a terminal-based reader and research workspace for Hegel's
 *Science of Logic*, built to follow the movement of the *Logic* itself.
