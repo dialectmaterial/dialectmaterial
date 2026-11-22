@@ -1,6 +1,5 @@
 ## Hi, Dimitri here 💻
 
 * 🦬🐧 Philosopher and Linux enjoyer studying computational linguistics.
-* 👾🤖 Current project: [**SOL**](https://github.com/dialectmaterial/SOL), a terminal-based reader and research workspace for Hegel's *Science of Logic*.
-* ⌨️🧠 Also building [**Vimniscient**](https://vimniscient.com/), a spaced-repetition Vim trainer with nmemonic practice sentences.
+* ⌨️🧠 Building [**Vimniscient**](https://vimniscient.com/): get fluent in Vim in fifteen minutes a day, in your own Neovim.
 * 🌆💜 On [**Actual Spirit**](https://actualspirit.com) I write essays, give video lectures and hold conversations.
